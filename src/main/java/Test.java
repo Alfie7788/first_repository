@@ -21,7 +21,7 @@ public class Test {
     }
     public static void main(String[] args) {
         Test test = new Test();
-        int[] a = {6,1,3,5,2};
+        int[] a = {6,1,3,5};
         test.maopao(a);
     }
 }
